@@ -1,0 +1,14 @@
+C:\yes\Overwrite\bin\Debug\net7.0\Overwrite.exe
+C:\yes\Overwrite\bin\Debug\net7.0\Overwrite.deps.json
+C:\yes\Overwrite\bin\Debug\net7.0\Overwrite.runtimeconfig.json
+C:\yes\Overwrite\bin\Debug\net7.0\Overwrite.dll
+C:\yes\Overwrite\bin\Debug\net7.0\Overwrite.pdb
+C:\yes\Overwrite\obj\Debug\net7.0\Overwrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\yes\Overwrite\obj\Debug\net7.0\Overwrite.AssemblyInfoInputs.cache
+C:\yes\Overwrite\obj\Debug\net7.0\Overwrite.AssemblyInfo.cs
+C:\yes\Overwrite\obj\Debug\net7.0\Overwrite.csproj.CoreCompileInputs.cache
+C:\yes\Overwrite\obj\Debug\net7.0\Overwrite.dll
+C:\yes\Overwrite\obj\Debug\net7.0\refint\Overwrite.dll
+C:\yes\Overwrite\obj\Debug\net7.0\Overwrite.pdb
+C:\yes\Overwrite\obj\Debug\net7.0\Overwrite.genruntimeconfig.cache
+C:\yes\Overwrite\obj\Debug\net7.0\ref\Overwrite.dll
